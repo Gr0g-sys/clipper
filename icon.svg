@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="#1b1f2a"/>
+<g transform="translate(512 470)">
+<rect x="-230" y="-150" width="460" height="300" rx="40" fill="none" stroke="#ffd23f" stroke-width="44"/>
+<path d="M-60 -80 L95 0 L-60 80 Z" fill="#ffd23f"/>
+</g>
+<text x="512" y="860" font-family="Arial Black, Arial" font-weight="900" font-size="150" fill="#ffffff" text-anchor="middle">clipper</text>
+</svg>
